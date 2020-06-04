@@ -1,4 +1,4 @@
-Attribute VB_Name = "mPoGenerator"
+Attribute VB_Name = "mMain"
 Option Explicit
 
 Sub CreatePurchaseOrder()
