@@ -1,3 +1,4 @@
+<p>miniERP explanation:</p>
 <ul>
   <li>Script takes Purchase Request in excel format and converts it into Purchase Order printed into PDF file.</li>
   <li>PDF file is the final order file to be sent over to a supplier.</li>
