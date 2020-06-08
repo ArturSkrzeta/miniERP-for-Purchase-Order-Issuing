@@ -1,4 +1,5 @@
-<p>miniERP explanation:</p>
+<h2>MiniERP for Purchase Order Issuing</h2>
+<h3>Intro</h3>
 <ul>
   <li>Script takes Purchase Request in excel format and converts it into Purchase Order printed into PDF file.</li>
   <li>PDF file is the final order file to be sent over to a supplier.</li>
@@ -8,5 +9,5 @@
   <li>Also COMPANY prefix can be replaced by another ordering company daughter's name what is coded into algorithm as well. This allows to avoid worst case scenario where we generate two different orders under one number for the same company name.</li>
   <li>miniERP excel handles also back-end dabase of vendors and ordering company data that is being printed on Purchase Order.</li>
 </ul>
-
+<h3>Demo</h3>
 <img src="images/tracker.JPG">
